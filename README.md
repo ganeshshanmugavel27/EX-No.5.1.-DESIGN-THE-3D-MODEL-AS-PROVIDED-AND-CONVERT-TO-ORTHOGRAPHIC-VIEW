@@ -36,6 +36,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+![GANESH 5 1 ++_page-0001](https://user-images.githubusercontent.com/122046208/213669482-fb23759f-6818-469b-9823-dd036b6d7834.jpg)
+
 
 
 ## RESULT:
